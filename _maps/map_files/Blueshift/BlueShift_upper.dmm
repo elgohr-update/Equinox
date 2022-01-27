@@ -6629,9 +6629,6 @@
 /turf/open/floor/wood,
 /area/command/heads_quarters/rd)
 "bBK" = (
-/obj/structure/table/abductor,
-/obj/item/clothing/sextoy/magic_wand,
-/obj/item/clothing/mask/leatherwhip,
 /obj/machinery/light/directional/south,
 /turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
@@ -7977,7 +7974,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold/supply/hidden/layer4{
 	dir = 1
 	},
-/turf/open/floor/carpet/purple,
+/turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
 "bXz" = (
 /obj/structure/closet/crate/freezer{
@@ -12908,13 +12905,6 @@
 /obj/machinery/light/directional/east,
 /turf/open/floor/iron/dark,
 /area/science/genetics)
-"dLS" = (
-/obj/structure/chair/x_stand,
-/obj/structure/window/reinforced/tinted{
-	dir = 8
-	},
-/turf/open/floor/iron/dark/textured_large,
-/area/commons/dorms)
 "dLX" = (
 /obj/effect/turf_decal/bot,
 /obj/structure/closet/firecloset,
@@ -13590,7 +13580,10 @@
 /turf/open/floor/wood/parquet,
 /area/service/theater)
 "dXg" = (
-/turf/open/floor/carpet/purple,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
 "dXh" = (
 /obj/machinery/door/firedoor,
@@ -13781,9 +13774,6 @@
 /obj/structure/window/reinforced/tinted{
 	dir = 8
 	},
-/obj/structure/table/abductor,
-/obj/item/clothing/mask/ballgag,
-/obj/item/clothing/mask/ballgag/choking,
 /turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
 "ecd" = (
@@ -23289,10 +23279,6 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/science/robotics/lab)
-"hPM" = (
-/obj/structure/bed/bdsm_bed,
-/turf/open/floor/iron/dark/textured_large,
-/area/commons/dorms)
 "hQi" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/smart/simple/supply/hidden/layer4,
@@ -24408,10 +24394,7 @@
 	normaldoorcontrol = 1;
 	specialfunctions = 4
 	},
-/obj/item/kirbyplants{
-	icon_state = "plant-10"
-	},
-/turf/open/floor/carpet/purple,
+/turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
 "ilh" = (
 /obj/effect/turf_decal/siding/wood,
@@ -28838,7 +28821,6 @@
 /turf/open/indestructible,
 /area/science/test_area)
 "jQl" = (
-/obj/machinery/vending/dorms,
 /obj/effect/turf_decal/bot,
 /obj/effect/turf_decal/tile/neutral,
 /obj/effect/turf_decal/tile/neutral{
@@ -35097,12 +35079,6 @@
 /obj/structure/closet/secure_closet/security/med,
 /turf/open/floor/iron,
 /area/security/checkpoint/medical)
-"mdu" = (
-/obj/structure/table/abductor,
-/obj/item/lustwish_discount,
-/obj/item/clothing/sextoy/vibroring,
-/turf/open/floor/iron/dark/textured_large,
-/area/commons/dorms)
 "mdw" = (
 /obj/effect/turf_decal/trimline/blue/filled/line{
 	dir = 8
@@ -35501,17 +35477,6 @@
 /obj/machinery/atmospherics/pipe/smart/simple/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/simple/supply/hidden/layer4,
 /turf/open/floor/iron,
-/area/commons/dorms)
-"mmo" = (
-/obj/structure/table/abductor,
-/obj/item/clothing/sextoy/dildo{
-	pixel_x = -6;
-	pixel_y = 7
-	},
-/obj/item/clothing/sextoy/buttplug{
-	pixel_y = 4
-	},
-/turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
 "mmr" = (
 /obj/structure/shuttle/engine/heater{
@@ -44342,10 +44307,6 @@
 	},
 /turf/open/floor/carpet/blue,
 /area/command/heads_quarters/captain/private)
-"pFG" = (
-/obj/structure/chair/x_stand,
-/turf/open/floor/iron/dark/textured_large,
-/area/commons/dorms)
 "pFL" = (
 /obj/structure/chair/sofa/bench{
 	dir = 8;
@@ -58923,9 +58884,8 @@
 /turf/open/floor/iron/white,
 /area/medical/virology)
 "vdK" = (
-/obj/machinery/vending/dorms,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
-/turf/open/floor/carpet/purple,
+/turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
 "vdO" = (
 /obj/effect/turf_decal/tile/blue{
@@ -64041,7 +64001,7 @@
 "wVm" = (
 /obj/machinery/atmospherics/pipe/smart/simple/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/simple/supply/hidden/layer4,
-/turf/open/floor/carpet/purple,
+/turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
 "wVq" = (
 /obj/item/kirbyplants/random,
@@ -64897,7 +64857,6 @@
 /obj/structure/window/reinforced/tinted{
 	dir = 4
 	},
-/obj/structure/bed/bdsm_bed,
 /turf/open/floor/iron/dark/textured_large,
 /area/commons/dorms)
 "xkS" = (
@@ -67089,9 +67048,6 @@
 /obj/structure/window/reinforced/tinted{
 	dir = 4
 	},
-/obj/structure/table/abductor,
-/obj/item/clothing/sextoy/double_dildo,
-/obj/item/spanking_pad,
 /obj/machinery/atmospherics/pipe/smart/simple/supply/hidden/layer4{
 	dir = 6
 	},
@@ -88462,8 +88418,8 @@ rzb
 ivq
 rML
 hTM
-hPM
-mmo
+aYf
+aYf
 ile
 hTM
 pnN
@@ -88721,7 +88677,7 @@ llU
 hTM
 nkZ
 aYf
-dXg
+aYf
 mTO
 pnN
 xgb
@@ -89235,7 +89191,7 @@ hTM
 hTM
 vdK
 bXv
-vpz
+dXg
 mTO
 xbC
 xgb
@@ -89490,7 +89446,7 @@ jOV
 xsT
 uOh
 hTM
-dLS
+ebo
 bea
 ebo
 hTM
@@ -90004,9 +89960,9 @@ lrm
 xiC
 tra
 hTM
-pFG
+aYf
 bea
-mdu
+aYf
 hTM
 xbC
 xgb

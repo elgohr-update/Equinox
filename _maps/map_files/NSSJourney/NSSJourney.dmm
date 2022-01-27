@@ -44448,11 +44448,6 @@
 /obj/effect/landmark/blobstart,
 /turf/open/floor/plating,
 /area/maintenance/fore)
-"kOB" = (
-/obj/machinery/vending/dorms,
-/obj/effect/decal/cleanable/dirt/dust,
-/turf/open/floor/plating,
-/area/maintenance/port/aft)
 "kOT" = (
 /obj/item/stock_parts/scanning_module{
 	pixel_x = -5;
@@ -53572,7 +53567,6 @@
 /turf/open/floor/iron/dark,
 /area/security/brig)
 "tHv" = (
-/obj/machinery/vending/dorms,
 /turf/open/floor/iron/dark,
 /area/commons/fitness)
 "tHT" = (
@@ -56476,10 +56470,6 @@
 /obj/structure/lattice/catwalk,
 /turf/open/space/basic,
 /area/space/nearstation)
-"wmp" = (
-/obj/machinery/vending/dorms,
-/turf/open/floor/plating,
-/area/security/prison/safe)
 "wnD" = (
 /obj/structure/reagent_dispensers/watertank,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -80253,7 +80243,7 @@ aaw
 aaw
 aaw
 aaJ
-wmp
+oHB
 cOf
 oHB
 oHB
@@ -80627,7 +80617,7 @@ nsM
 fAS
 wCp
 bCq
-kOB
+vLX
 otQ
 vLX
 bCq
