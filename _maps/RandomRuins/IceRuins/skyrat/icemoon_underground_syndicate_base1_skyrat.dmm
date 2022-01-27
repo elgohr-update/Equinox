@@ -831,9 +831,6 @@
 /obj/effect/turf_decal/tile/blue{
 	dir = 8
 	},
-/obj/machinery/vending/dorms{
-	onstation = 0
-	},
 /obj/machinery/airalarm/directional/north{
 	req_access = list(150)
 	},
