@@ -196,14 +196,6 @@ GLOBAL_LIST_INIT(loadout_miscunders, generate_loadout_items(/datum/loadout_item/
 	name = "Green Christmas Suit"
 	item_path = /obj/item/clothing/under/costume/christmas/green
 
-/datum/loadout_item/under/miscellaneous/christmas/female
-	name = "Revealing Christmas Suit"
-	item_path = /obj/item/clothing/under/croptop/christmas
-
-/datum/loadout_item/under/miscellaneous/christmas/female/green
-	name = "Revealing Green Christmas Suit"
-	item_path = /obj/item/clothing/under/croptop/christmas/green
-
 //christmas ends, because every christmas is last christmas
 
 /datum/loadout_item/under/miscellaneous/camo
@@ -543,22 +535,6 @@ GLOBAL_LIST_INIT(loadout_miscunders, generate_loadout_items(/datum/loadout_item/
 	name = "Black Cargo Uniform"
 	item_path = /obj/item/clothing/under/misc/evilcargo
 	restricted_roles = list(JOB_CARGO_TECHNICIAN)
-
-/datum/loadout_item/under/miscellaneous/eve
-	name = "Collection of Leaves"
-	item_path = /obj/item/clothing/under/misc/gear_harness/eve
-
-/datum/loadout_item/under/miscellaneous/adam
-	name = "Leaf"
-	item_path = /obj/item/clothing/under/costume/loincloth/sensor/adam
-
-/datum/loadout_item/under/miscellaneous/loincloth_leather
-	name = "Leather Loincloth"
-	item_path = /obj/item/clothing/under/costume/loincloth/sensor
-
-/datum/loadout_item/under/miscellaneous/loincloth_cloth
-	name = "Cloth Loincloth"
-	item_path = /obj/item/clothing/under/costume/loincloth/cloth/sensor
 
 ////////////////////////////////////////////////////////////////FORMAL UNDERSUITS
 /datum/loadout_item/under/formal
